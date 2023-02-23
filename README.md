@@ -1,4 +1,4 @@
-#MULTIPLICAÇÃO DE MATRIZES
+# MULTIPLICAÇÃO DE MATRIZES
 
 - Crie um projeto e compartilhe comigo usando o GitHub (tckg)
 - Desenvolva o exercício 2 da multiplicação de matrizes em Phyton (ou Java, C# etc) (slide 29)
